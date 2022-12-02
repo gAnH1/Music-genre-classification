@@ -8,6 +8,7 @@
 
 # Music genre classifier
 Với sự phát triển của internet và các ứng dụng hệ thống đa phương tiện xử lý cơ sở dữ liệu, âm nhạc ngày càng trở nên quan trọng và nhu cầu về các ứng dụng truy xuất thông tin âm nhạc cũng tăng lên. Các thể loại âm nhạc không có định nghĩa và ranh giới nghiêm ngặt khi chúng phát sinh thông qua sự tương tác phức tạp giữa các yếu tố công chúng, tiếp thị, lịch sử và văn hóa. Đây là Ứng dụng web phân loại nhạc theo thể loại.
+![Input](https://user-images.githubusercontent.com/85569646/205339204-af05d681-8658-43fc-af14-9564d17174bf.png)
 ![Output](https://user-images.githubusercontent.com/85569646/205334507-49611ac7-ee01-4b7f-9c3a-3ee16d7355ff.png)
 
 ## Dataset
