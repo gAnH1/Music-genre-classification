@@ -27,7 +27,7 @@ Sử dụng data từ [GTZAN Dataset](https://www.kaggle.com/andradaolteanu/gtza
 - Rock
 
 ## Colab 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx35N2HNWm3XklaOPIZr5k7oTkvqBD7C)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1slMPRjKmdzhuy3AJT8aYu33qwvgTc6pE)
 
 **Xây dựng trên các Model:**
 - Logistic Regression
@@ -52,4 +52,4 @@ Sử dụng data từ [GTZAN Dataset](https://www.kaggle.com/andradaolteanu/gtza
 - catboost==0.25.1
 
 ## Flow Chart
-![Chart](https://user-images.githubusercontent.com/85569646/205336327-200b662a-7126-43ed-8224-1fd3e84fee7d.png)
+![Chart](https://user-images.githubusercontent.com/85569646/208019017-2cc35232-e4fe-4aab-ba0e-b818d51c5f08.png)
